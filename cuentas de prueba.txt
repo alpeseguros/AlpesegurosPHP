@@ -1,0 +1,9 @@
+cuenta proovedor
+user:luisa12
+contraseña:12
+
+cuenta cliente
+user :luisamolina12
+contraseña: 12
+
+

@@ -1,0 +1,40 @@
+Se cambió la estructura de las carpetas. 
+
+-Archivos: es de ustedes
+|-assets: estaba bien como lo tenian
+|-src : carpeta fundamental
+	|-Controllers: las conexiones entre Back y front
+	|-includes: objetos estandar de la pagina como header y footer
+	|-models: Modelos, no se ha implementado nada aun
+	|-Views: las vistas de la pagina
+		|-Compra
+		|-Default
+		|-Index
+		|-Productos
+		|-Servicios
+		|-User
+		Estas carpetas contienen todas las funcionalidades que utilizan
+
+Todo el proyecto lo estoy trabajando en php aprovechando que podemos incrustar html en php
+
+|-index.php archivo de inicio de la pagina.
+
+2) Se creó una base de datos llamado friesan_cow
+
+--Esta base de datos tiene las siguientes tablas:
+----compras: guarda las compras que hacen los usuarios 
+----contactos:guarda los mensajes de las personas que se quieren contactar con usted
+----cuido_db:almacena los alimentos que se ofrecen
+----usuarios:almacena los usuarios registrados
+
+3) Se creó una logica para sistema de usuarios. hay login,register,logout y profile. Resta
+por implementar modificar usuario, fotos, o mas informacion que se quiera mostrar
+
+4) Se hicieron las conexiones entre base de datos y php con conexion.php que está en controllers
+5) el resto de controllers dependen de conexion.php
+
+6) se creó la carpeta includes y se almacenó el header y el footer como componentes con el fin de
+no escribir el codigo del header o el footer muchas veces y solo sea invocarlo
+
+7) se implementó sistema de compra sencillo, con el fin de ilustrar el funcionamiento de las conexiones
+php- base de datos
