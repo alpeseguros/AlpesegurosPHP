@@ -15,6 +15,6 @@ if (ini_get("session.use_cookies")) {
 session_destroy();
 
 // Redirigir a la página de inicio
-header("Location: /Project/index.php");
+header("Location: /AlpeSegurosDev/index.php");
 exit();
 ?>

@@ -11,7 +11,7 @@ $is_authenticated = isset($_SESSION['user_id']);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>AlpeSeguros</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="style.css">
@@ -26,12 +26,10 @@ $is_authenticated = isset($_SESSION['user_id']);
 <section class="about section-padding mt-5">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-6 col-md-12 col-12">
-                <img src="ftr.png" class="img-fluid" alt="">
-            </div>
+            
             <div class="col-lg-6 col-md-12 col-12 ps-lg-5 mt-md-5">
-                <h2>FINCA SANA</h2>
-                <p>Aquí podrás encontrar productos para el cuidado de los animales, tanto en su alimentación como en su salud. Es muy importante mantenerlos en las mejores condiciones posibles para garantizar su bienestar y productividad.</p>
+                <h2>Bienvenido a AlpeSeguros</h2>
+                <p>En AlpeSeguros nos dedicamos a brindarte la tranquilidad que necesitas con nuestros seguros personalizados. Ya sea para proteger tu hogar, automóvil, o tus seres queridos, contamos con opciones que se adaptan a tus necesidades y presupuesto.</p>
             </div>
         </div>
     </div>
@@ -41,11 +39,11 @@ $is_authenticated = isset($_SESSION['user_id']);
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-12">
-                <img src="assets/images/ftr.png" class="img-fluid" alt="">
+                <img src="assets/images/IMG-20241104-WA0010.jpg" class="img-fluid" alt="AlpeSeguros">
             </div>
             <div class="col-lg-6 col-md-12 col-12 ps-lg-5 mt-md-5">
-                <h2>Servicios de Alimentación y Salud Animal</h2>
-                <p>En FINCA SANA, ofrecemos productos especializados para la nutrición y el cuidado de diversos animales. Nos aseguramos de que cada uno reciba lo necesario para mantener su salud y energía, adaptándonos a las necesidades de cada especie.</p>
+                <h2>Protección y Seguridad para Tu Vida y Tus Bienes</h2>
+                <p>Con AlpeSeguros, puedes estar seguro de que tus bienes más valiosos están protegidos. Ofrecemos seguros de salud, vida, automotriz y hogar, asegurando que cada aspecto de tu vida esté cubierto contra imprevistos.</p>
             </div>
         </div>
     </div>
@@ -55,13 +53,10 @@ $is_authenticated = isset($_SESSION['user_id']);
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-12 ps-lg-5 mt-md-5">
-                <h2>Asesoría Profesional para el Cuidado Animal</h2>
-                <p>En FINCA SANA, brindamos asesoría experta sobre el manejo adecuado de los animales, enfocándonos en su bienestar general, desde la prevención de enfermedades hasta el cuidado de su alimentación. Nuestro objetivo es garantizar una vida saludable y productiva para tus animales.</p>
+                <h2>Asesoría Profesional en Seguros</h2>
+                <p>En AlpeSeguros, nuestro equipo de expertos está listo para ayudarte a encontrar la mejor cobertura para tus necesidades. Nos esforzamos por ofrecer asesoría personalizada que se adapte a cada situación, garantizando la tranquilidad y seguridad que mereces.</p>
             </div>
-            <div class="col-lg-6 col-md-12 col-12">
-                <!-- Puedes agregar una imagen o cualquier contenido adicional aquí si lo deseas -->
-                <img src="assets/images/le.jpg" class="img-fluid" alt="">
-            </div>
+            
         </div>
     </div>
 </section>

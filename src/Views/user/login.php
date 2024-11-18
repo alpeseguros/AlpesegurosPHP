@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $_SESSION['username'] = $username;
                 $_SESSION['tipo_cliente'] = $tipo_cliente; // Guardar tipo_cliente en la sesión
                 
-                header("Location: /Project"); // Redirigir a una página protegida
+                header("Location: /AlpeSegurosDev"); // Redirigir a una página protegida
                 exit();
             } else {
                 $error = "Contraseña incorrecta.";

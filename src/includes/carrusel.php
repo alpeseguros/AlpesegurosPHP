@@ -30,19 +30,19 @@
 
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/Project/assets/images/vacashostein.jpg.jpg" class="d-block w-100" alt="..." width="300" height="200">
+            <img src="/AlpeSegurosDev/assets/images/IMG-20241104-WA0010.jpg" class="d-block w-100" alt="..." width="300" height="200">
             <div class="carousel-caption d-none d-md-block">
                 <h5>FINCA SANA, Somos calidad.</h5>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="/Project/assets/images/IMG-20240827-WA0040.jpg" class="d-block w-100" alt="..." width="300" height="200">
+            <img src="/AlpeSegurosDev/assets/images/IMG-20241104-WA0010.jpg" class="d-block w-100" alt="..." width="300" height="200">
             <div class="carousel-caption d-none d-md-block">
                 <h5>FINCA SANA, Somos calidad.</h5>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="/Project/assets/images/vaca-frisona,jpg.jpg" class="d-block w-100" alt="..." width="300" height="200">
+            <img src="/AlpeSegurosDev/assets/images/IMG-20241104-WA0010.jpg" class="d-block w-100" alt="..." width="300" height="200">
             <div class="carousel-caption d-none d-md-block">
                 <h5>FINCA SANA, Somos calidad.</h5>
             </div>

@@ -1,0 +1,9 @@
+{
+    "require": {
+      "setasign/fpdi": "^2.6",
+        "setasign/fpdf": "^1.8",
+        "phpmailer/phpmailer": "^6.9",
+        "tecnickcom/tcpdf": "^6.7",
+        "smalot/pdfparser": "^2.11"
+    }
+  }
